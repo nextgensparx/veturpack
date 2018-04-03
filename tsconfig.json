@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
     "target": "es5",
+    "checkJs": true,
     "module": "commonjs",
     "strict": true,
     "noUnusedLocals": true,
